@@ -1,9 +1,7 @@
 # Swap-Words
 
-[English](#introduction) | [中文](#简介)
 
-
-## 简介
+## 简介 | [English](#introduction)
 
 开发此插件的初衷是实现 "快速交换算式两边的式子, 而符号留在中间" 的功能, 避免总是需要两次剪切粘贴+后续调整空格的麻烦;
 
@@ -60,7 +58,7 @@ keybindings.json
 - 未来可能支持不等式变号, 例如 `a > b` 交换后变为 `b < a`;
 
 
-## Introduction
+## Introduction | [中文](#简介)
 
 This extension was created to quickly swap the two sides of an expression while keeping separators in the middle, so you do not need repeated cut-paste and manual spacing fixes.
 
